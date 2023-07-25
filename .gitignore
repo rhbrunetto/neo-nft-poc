@@ -1,0 +1,17 @@
+.idea
+venv
+__pycache__
+*.nef
+*.manifest.json
+*.nefdbgnfo
+dist
+build
+_build
+neo3_boa.egg-info
+/neo-devpack-dotnet/
+/Neo.TestEngine/
+test-engine-test.json
+autopep8
+.vscode
+n3
+.DS_Store
